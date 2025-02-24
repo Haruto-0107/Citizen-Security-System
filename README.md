@@ -1,4 +1,4 @@
-# Citizen-centric FIR System Prototype on Blockchain
+# Citizen-centric FIR System Prototype on Blockchain by Haruto and his team.
  
 This is an e-FIR system which leverage blockchain and smart contract to address the challenges in the traditional FIR system, enhancing security, transparency,corruption and efficiency in crime reporting and investigations.
 
